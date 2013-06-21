@@ -1,4 +1,4 @@
 waterdrop
 =========
 
-simlation code and structures for water simulations
+Simlation code and structures for water simulations.
